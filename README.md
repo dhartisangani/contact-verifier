@@ -22,3 +22,4 @@ A user-friendly dashboard built with React that allows users to verify single an
 cd contact-verifier
 npm install
 # contact-verifier
+# contact-verifier
