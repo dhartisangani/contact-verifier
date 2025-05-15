@@ -1,4 +1,4 @@
-# 📞 Bulk Contact Verifier Dashboard
+# Bulk Contact Verifier Dashboard
 
 A user-friendly dashboard built with React that allows users to verify single and bulk contact numbers efficiently. Developed as part of a frontend assessment for Kumpit Solutions Pvt. Ltd.
 
@@ -10,13 +10,13 @@ A user-friendly dashboard built with React that allows users to verify single an
 - Intuitive sidebar navigation (Dashboard, Contact Verifier, History, Credits).
 - Built using React, Tailwind CSS, and Heroicons.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React (Create React App)
 - Tailwind CSS
 - Heroicons
 
-## 📦 Installation
+## Installation
 
 ```bash
 cd contact-verifier
