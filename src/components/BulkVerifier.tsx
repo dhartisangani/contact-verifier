@@ -92,6 +92,7 @@ const BulkVerifier = () => {
             <DonutChart data={statusCounts} />
           </div>
         )}
+        
       </div>
     </div>
   );
