@@ -50,7 +50,6 @@ const BulkVerifier = () => {
 
   return (
     <div className="space-y-1 bg-white px-6 py-4 rounded-xl shadow-md">
-
       <div className="flex flex-row space-x-6">
         <div className="flex flex-col space-y-2 w-2/3">
           <label htmlFor="bulk-verifier" className="uppercase font-bold">Bulk Contact Verifier</label>
@@ -92,7 +91,7 @@ const BulkVerifier = () => {
             <DonutChart data={statusCounts} />
           </div>
         )}
-        
+
       </div>
     </div>
   );
